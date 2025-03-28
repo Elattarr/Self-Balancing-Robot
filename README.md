@@ -7,4 +7,4 @@ This project utilizes PID controller to balance a two wheeled robot.
  [report](/Report.pdf) 
 
 ### Video Preview 
-[Download the Video](/robot%20vod)
+[Download the Video](/robot%20vod.mp4)
